@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 5001
+  name: 'テスト1'
+  picture_path: 'test1'
+  recipe: '煮る'
+  genre_id: 1
+  taste_id: 1
+  cooking_time_id: 1
+
+two:
+  id: 5002
+  name: 'テスト2'
+  picture_path: 'test2'
+  recipe: '焼く'
+  genre_id: 2
+  taste_id: 2
+  cooking_time_id: 2

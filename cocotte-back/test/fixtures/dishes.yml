@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  name: MyString
+  picture_path: MyString
+  varchar: MyString
+  recipe: MyString
+  genre: one
+  taste: one
+  cooking_time: one
+
+two:
+  id: 1
+  name: MyString
+  picture_path: MyString
+  varchar: MyString
+  recipe: MyString
+  genre: two
+  taste: two
+  cooking_time: two

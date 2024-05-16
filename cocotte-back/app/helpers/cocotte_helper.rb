@@ -1,0 +1,2 @@
+module CocotteHelper
+end

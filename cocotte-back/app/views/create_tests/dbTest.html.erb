@@ -1,0 +1,9 @@
+<h1>DBTests</h1>
+<ul>
+  <% @create_tests.each do |create_test| %>
+    <li>
+      <%= create_test.name %> / <%= create_test.age %>
+      <%= link_to '詳細', create_test_path(create_test.id) %>
+    </li>
+  <% end %>
+</ul>

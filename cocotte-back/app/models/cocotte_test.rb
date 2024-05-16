@@ -1,0 +1,2 @@
+class CocotteTest < ApplicationRecord
+end
