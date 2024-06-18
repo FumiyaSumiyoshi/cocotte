@@ -26,8 +26,9 @@ import DbTest from './views/DbTest.vue'
 export default {
   name: 'App',
   components: {
-    ApiTest,
-    DbTest
+    ApiTest
+    // DBテストはコメントアウト解除でアップロードする写真が選択できる
+    // DbTest
     // MenuList
   }
 }

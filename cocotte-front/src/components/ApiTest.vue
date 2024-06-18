@@ -1,7 +1,9 @@
 <template>
   <div>
-    <h1>ApiTest</h1>
-    <button @click="test">ApiTest</button>
+    <!-- ↓DB疎通確認用一時コメントアウト -->
+    <!-- <h1>ApiTest</h1> -->
+    <!-- <button @click="test">ApiTest</button>-->
+    <!-- DB疎通確認用一時コメントアウト -->
     <!-- <button @click="dbTest">DbTest</button> -->
     <p>{{ message }}</p>
   </div>

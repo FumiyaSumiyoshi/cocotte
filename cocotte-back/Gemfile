@@ -47,6 +47,9 @@ gem "bootsnap", require: false
 #2024.2.25 vueとの連携のために追加
 gem 'rack-cors'
 
+#2024.6.12 ページング処理のために追加
+gem 'kaminari'
+
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
   gem "debug", platforms: %i[ mri windows ]
